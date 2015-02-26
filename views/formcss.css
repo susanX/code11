@@ -1,9 +1,9 @@
-h1,h2,h3 {color: red important!;}
+h1,h2,h3 {color: red;}
 
-a {color: blue;}
+a {color: purple;}
 
 
-.form-group {font: red;}
+.form-group {color: red;}
 /*input
 textarea
 select
