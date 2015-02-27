@@ -28,8 +28,11 @@ require 'sinatra'
 #   output
 # end
 
+
+
 get '/' do
   erb :form
+
 end
 puts "app.rb"
 post '/' do
@@ -42,3 +45,5 @@ post '/' do
     erb :no_drink
   end
 end
+
+
